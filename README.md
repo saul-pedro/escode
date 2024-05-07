@@ -1,2 +1,2 @@
-# escode
+# vs code
 app smx contactos
